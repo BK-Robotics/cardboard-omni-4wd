@@ -1,4 +1,6 @@
-# cardboard-omni-4wd
+# Project: X-drive 4WD 300x300
+Đây là dự án đầu tiên của đội ngũ BK Robotics.
+
 ## Mô tả
 Kích thước khung: 300x300 (mm)
 
