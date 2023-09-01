@@ -1,4 +1,4 @@
-# Project: X-drive 4WD 300x300
+# Project: Mini X-drive 4WD
 Đây là dự án đầu tiên của đội ngũ BK Robotics.
 
 ## Mô tả
