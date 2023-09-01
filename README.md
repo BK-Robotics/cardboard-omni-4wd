@@ -23,3 +23,11 @@
 
 ## Điều khiển
 Đang cập nhật
+
+## Mục đích của dự án
+1. Quy mô project vừa sức cho người mới bắt đầu.
+2. Dự án đủ nhỏ để triển khai và ra thành quả trong thời gian ngắn.
+3. Là cơ hội thử áp dụng, điều chỉnh và thống nhất các quy tắc chung; trau dồi kỹ năng làm việc nhóm và kỹ năng tự học.
+4. Sản phẩm làm ra sẽ được xem như một cột mốc (milestone) rõ ràng trong tiến trình phát triển, từ đó dễ dàng tạo động lực cho từng cá nhân.
+5. Thiết bị có thể phục vụ cho việc nghiên cứu nâng cao sau này của team Software.
+
